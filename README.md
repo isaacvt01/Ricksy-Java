@@ -31,7 +31,7 @@ Las historias de usuario proporcionadas son las siguientes:
 
 El diagrama UML proporcionado por [dfleta](https://github.com/dfleta):
 
-![Diagrama UML](docs/diagrama clases UML.jpg)
+![Diagrama UML](docs/diagrama_clases_UML.jpg)
 
 
 
