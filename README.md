@@ -15,7 +15,23 @@ El propósito de este kata es obtener experiencia con:
 
 Además de lo mencionado anteriormente, utilizo este kata para practicar streams.
 
-### Historias de usuario
+## Historias de usuario
 
 Las historias de usuario proporcionadas son las siguientes:
+
+![Salida por consola](docs/Salida_consola_01.png)
+
+![Salida por consola](docs/Salida_consola_02.png)
+
+![Salida por consola](docs/Salida_consola_03.png)
+
+![Salida por consola](docs/Salida_consola_04.png)
+
+## Diagrama UML
+
+El diagrama UML proporcionado por [dfleta](https://github.com/dfleta):
+
+![Diagrama UML](docs/diagrama clases UML.jpg)
+
+
 
