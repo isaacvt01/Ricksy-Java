@@ -6,6 +6,14 @@ import java.util.List;
 public class RickMenuDispatcher implements GuestDispatcher{
     private int stock = 100;
     private final double itemCost = 10.00;
+//Se añaden getters solo para los tests
+    public int getStock() {
+        return stock;
+    }
+
+    public List<String> getClients() {
+        return clients;
+    }
 
     List<String> clients = new ArrayList<>();
 

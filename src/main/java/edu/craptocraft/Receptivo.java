@@ -4,7 +4,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Receptivo {
-    List<GuestDispatcher> dispatchers = new ArrayList<>();
+    private List<GuestDispatcher> dispatchers = new ArrayList<>();
+
+    public List<GuestDispatcher> getDispatchers() {
+        return dispatchers;
+    }
 
     public Receptivo() {}
     public void registra(GuestDispatcher dispatcher){
@@ -14,4 +18,5 @@ public class Receptivo {
         dispatchers.stream()
                 .forEach(d -> d.dispatch(creditCard));
     }
+
 }
