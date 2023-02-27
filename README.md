@@ -2,7 +2,7 @@
 
 Este es un examen creado por [dfleta](https://github.com/dfleta).
 
-Todo lo hecho en este código ha sido a partir del enunciado propuesto en el [repositorio original.](https://github.com/dfleta/ricksy-business-observer).
+Todo lo hecho en este código ha sido a partir del enunciado propuesto en el [repositorio original](https://github.com/dfleta/ricksy-business-observer).
 
 Se proporcionan unas historias de usuario, un diagrama UML y el archivo main `App.java`. 
 
